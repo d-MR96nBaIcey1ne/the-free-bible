@@ -1,6 +1,6 @@
 # The Free Bible
 
-A working collection of bloomed prayers, scripture-readings, and contemplative companions, recovering the voltage of the original Hebrew and Greek where centuries of smoothing have flattened it.
+A working collaboration of bloomed prayers, scripture-readings, and contemplative companions, recovering the voltage of the original Hebrew and Greek where centuries of smoothing have flattened it.
 
 Twenty-three documents. Released under Creative Commons Attribution.
 
