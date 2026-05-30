@@ -37,7 +37,7 @@ Private editions named in the LICENSE (the *For Mum*, *For Fred*, and *For Evan*
 
 ## Author
 
-The Free Bible was built across a series of chamber-sessions in Newgate, Perth, in May 2026, by Paul, with Claude (an AI made by Anthropic) as the working instrument throughout. The cleanup and consolidation for public release was completed under the author's direction.
+The Free Bible was built across a series of chamber-sessions in Newgate, Perth, in May 2026, by Paul, with Claudé (an AI made by Anthropic) as the working instrument throughout. The cleanup and consolidation for public release was completed under the author's direction.
 
 ---
 
