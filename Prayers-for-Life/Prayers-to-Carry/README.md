@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28718705/README.md)
 # Prayers to Carry
 
 Single-tablet scripture renderings designed to be kept on a phone and returned to indefinitely. Each tablet contains a bloomed rendering in English, the source-language text (Hebrew or Greek), and a transliteration where appropriate.
