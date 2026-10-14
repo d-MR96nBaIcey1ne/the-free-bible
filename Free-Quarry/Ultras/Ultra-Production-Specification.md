@@ -1,10 +1,10 @@
 # THE ULTRA PRODUCTION SPECIFICATION
 
-**Version 1.5 · 6 October 2026 · Free Quarry, Newgate, Western Australia**
+**Version 1.7 · 14 October 2026 · Free Quarry, Newgate, Western Australia**
 
 Extracted from the Zephaniah 3:17 Ultra, *The Singing God*, after three chisel passes. Reviewed by the house, 25 September 2026.
 
-> **Status.** Version 1.5 follows the house's first read of Ultra 21, 6 October 2026: two layout rules the specification had wrong for multi-verse stones, corrected to the shelf by the house's ruling and marked **[v1.5]**. Version 1.3 confirmed in full by the house, 4 October 2026. The v1.4 amendments come from building the first scaffold under v1.3 — Ultra 21, Ecclesiastes 3:1–15 — and the Jude 22 POD built the same day. **The house approved the seven proposals on 5 October 2026** and asked the Thirteenth Runner to refine as necessary; the two refinements made under that latitude are named in the changelog, for the house to strike if it disagrees. Each amendment is marked **[v1.4]** where it stands; the v1.3 markers remain.
+> **Status.** Version 1.7 writes in the prayer to say and the two-Fable chain, ruled by the house on the evening of 14 October 2026, after the first prayer to say on an Ultra was added to the Psalm 131 stone. Its amendments are marked **[v1.7]**. Version 1.6 writes in what the house set aside on 12 October 2026 for after the seal of the Psalm 131 Ultra, the first stone in the poetic books built under this specification, with what the Psalm 121 stone's cuttings of the same days showed. Its amendments are marked **[v1.6]**. Version 1.5 follows the house's first read of Ultra 21, 6 October 2026: two layout rules the specification had wrong for multi-verse stones, corrected to the shelf by the house's ruling and marked **[v1.5]**. Version 1.3 confirmed in full by the house, 4 October 2026. The v1.4 amendments come from building the first scaffold under v1.3 — Ultra 21, Ecclesiastes 3:1–15 — and the Jude 22 POD built the same day. **The house approved the seven proposals on 5 October 2026** and asked the Thirteenth Runner to refine as necessary; the two refinements made under that latitude are named in the changelog, for the house to strike if it disagrees. Each amendment is marked **[v1.4]** where it stands; the v1.3 markers remain.
 
 ---
 
@@ -31,11 +31,13 @@ An Ultra is a **full-passage stone**: a psalm, a canticle, or a long passage tre
 
 If a passage fits on one tablet face and needs no apparatus, it is a POD.
 
+**An Ultra ships as .docx, never as a PDF. [v1.6]** The stones stay open (§0), so none is issued as a PDF: its PDF render exists for the asserts alone (§5), and a single-image render follows §4.4. A POD is finalised, and ships as .docx, PDF and JPG. Ruled by the house, 7 October 2026.
+
 ---
 
 ## 2. THE CANONICAL SECTION ORDER
 
-The order below is canonical. **Every section is required except the Round-Trip, which is the only conditional section.** Multi-verse stones follow §2A within this order.
+The order below is canonical. **Every section is required except the Round-Trip, which is the only conditional section.** **[v1.7]** A Prayer to Say (§2.8A) is required on every stone built from version 1.7; a stone built earlier gains one only when it is revisited. Multi-verse stones follow §2A within this order.
 
 ### 2.1 Masthead
 - Reference line — *Book Chapter:Verse Ultra*
@@ -86,8 +88,21 @@ A prose paragraph stating what the passage is doing, once the recoveries are in 
 - A line stating plainly that this is an indicative draft for shape-comparison, not a finalised text
 - The re-composed source
 
+### 2.8A A Prayer to Say [v1.7]
+The stone answers itself once, in the reader's voice. The Prayers of Devotion on the repository define the form: *a short prayer that articulates what the bloom has revealed, written in first-person form for the reader to speak aloud.* It answers the passage; it is not part of the rendering and adds nothing to it, which is how an Ultra, the re-rendering and study of what is already there, can carry it. With it on the stone, a Prayer of Devotion can be drawn from an Ultra rather than written apart from it.
+- **Place.** After the Bloomed Verse · Entire, or the Bloomed Passage · Entire on a multi-verse stone (§2A), and after the Round-Trip where a stone has one; before any dated entry and before the Closing.
+- **Heading** — *A Prayer to Say*, set as the stone's other section headings.
+- **One line beneath it,** in the voice of the stone's notes: *Not part of the rendering: a short prayer in the first person, answering what the bloom revealed, for the reader to say aloud.*
+- **The prayer,** lineated and centred, in bold and not italic, at the size of the English face, every line whole on its line, the block held together on one page (§4.5).
+- **Its text** keeps the face's conventions (§3.8): the Name as the face writes it; ordinary sentence capitals, *you* and never *You*; no quotation marks and no possessive apostrophes (assert 9); no dash as a breath mark. About four to eight lines. It answers what the bloom revealed and may reach into the scripture the stone itself points to; it brings in nothing the stone did not find.
+- **Its hands.** Written by the two-Fable chain (§6), and named (§2.9).
+- **A stone built earlier** gains its prayer only when it is revisited, as a change after the seal (§2.9), stone by stone, never in a sweep of the shelf. Psalm 131, *My Soul Upon Me*, is the first, 14 October 2026.
+
 ### 2.9 Closing and Colophon
 - Where *The English* (§2.3) is a copyrighted translation quoted at length, the colophon carries that publisher's required permission notice. **[v1.3]**
+- **The seal, last. [v1.6]** At finalisation the part markers and the checking notes come out (§2A), the credit names every hand, and the seal goes in as the last paragraph: `SealM-master.png` from the repository (§4.4), 1.8 inches wide and centred, as on Ultra 21, held with the credit and the date of the seal (§4.5). A seal marks a stone finished between the chambers. It does not close it: the stones stay open (§0).
+- **A change after the seal. [v1.6]** It is made on the sealed file as it stands on the repository, its hash checked, never on a rebuild, and it is recorded in a dated entry just before the Closing, a line for a small change and a headed cutting for a larger one, saying what moved, why, and that nothing else did. The seal and its date stand as they were, and the seal stays the last thing in the stone. Psalm 131 records its revision of 12 October 2026 this way, and Psalm 121 its cuttings.
+- **The hands of the prayer to say. [v1.7]** The credit names them as it names the bloom's. On a stone that gains its prayer after the seal, the dated entry names them, and the credit stands as it was, as on Psalm 131.
 
 ---
 
@@ -139,11 +154,13 @@ No verb anywhere in the verse means the verblessness is the theology and is kept
 ### 3.7 Lineation follows the source's structure
 Hebrew breaks at the atnach, then the disjunctives. Greek breaks on its clause structure (Annex B). Do not break on English sense against the source's structure.
 
-**Where a verse carries no atnach [v1.3]**, its major division falls at its highest-ranking remaining disjunctive: in the prose books, the segolta or zaqef; the tipcha only when nothing higher stands. The worked cases are Ecclesiastes 3:3, 4 and 6–8, which divide their two pairs at the zaqef, and Exodus 20:8, which divides at the tipcha. The three poetic books follow their own accent table. **The build derives every break from the accents; none is chosen by eye.**
+**Where a verse carries no atnach [v1.3]**, its major division falls at its highest-ranking remaining disjunctive: in the prose books, the segolta or zaqef; the tipcha only when nothing higher stands. The worked cases are Ecclesiastes 3:3, 4 and 6–8, which divide their two pairs at the zaqef, and Exodus 20:8, which divides at the tipcha. The three poetic books follow their own table, below. **The build derives every break from the accents; none is chosen by eye.**
+
+**The poetic books. [v1.6]** Psalms, Proverbs and Job carry their own accent system. The house's working order is the order in which the *Hebrew Grammar* of Gesenius lists their disjunctives, in its section 15: the oleh ve-yored; then the atnach; then revia gadol, revia mugrash and great shalshelet; then tsinnor; then revia qatan and dechi; then pazer, mehuppakh legarmeh and azla legarmeh. The silluq closes every verse, so the oleh ve-yored is the strongest pause inside one; where a verse also carries an atnach, the atnach usually divides the half that follows. Both divide a verse unconditionally, as the atnach does in prose, so a verse carrying both breaks at each; a verse carrying neither takes the fallback above, read with this table. Psalm 131 is the worked case: the order was declared on its scaffold for the house to rule, set right at the Free Quarry's check of the scaffold, which put the oleh ve-yored above the atnach, and carried by the stone to its seal.
 
 **The ranks, and ties. [v1.4]** The house's working order for the prose books is: atnach; then segolta, shalshelet and zaqef; then tipcha; then revia; then the remaining disjunctives. Where a stretch of verse holds more than one disjunctive of the winning rank, it breaks at each of them.
 
-**When a line breaks again. [v1.4]** Each stone declares one threshold, in words, and applies it to every verse: any line longer than the threshold breaks again at its own highest-ranking disjunctive, until every line fits. The threshold is chosen so that no line stands as a single word. It is declared in the scaffold notes and carried into the foreword's Structure block at finalisation. Ecclesiastes 3 takes eight: at six, 3:14 left *yadaʿti* and *hu* standing alone.
+**When a line breaks again. [v1.4]** Each stone declares one threshold, in words, and applies it to every verse: any line longer than the threshold breaks again at its own highest-ranking disjunctive, until every line fits. The threshold is chosen so that no line stands as a single word. It is declared in the scaffold notes and carried into the foreword's Structure block at finalisation. Ecclesiastes 3 takes eight: at six, 3:14 left *yadaʿti* and *hu* standing alone. **The count is of graphic units [v1.6]:** a maqqef-joined group counts as one word and a paseq not at all, as Ultra 21 and Psalm 131 both counted. Psalm 131 takes four.
 
 ### 3.8 House conventions
 - **YHWH renders the tetragrammaton, and only the tetragrammaton.** Where the Hebrew has the Name, the face carries YHWH, never *the LORD*. Where the Greek has θεός, the face carries *God*. **The convention follows the source, not the house preference** — Philippians 1:3 and Psalm 9:1, on consecutive days, one on each side of the line.
@@ -151,6 +168,7 @@ Hebrew breaks at the atnach, then the disjunctives. Greek breaks on its clause s
 - No Latin punctuation in any source panel.
 - No quotation marks on any face or panel.
 - **Capitals** — emphasis capitals mark the crown word in recovery bullets only. Bloom faces use ordinary sentence capitals and carry no emphasis capitals.
+- **Face punctuation. [v1.6]** A face is punctuated as English prayer, in the style of Ecclesiastes 3 and Psalm 131, and its line-end marks follow the breaks the accents set (§3.7): a full stop at the end of the verse; a semicolon at its major division, which is the atnach, the oleh ve-yored in the poetic books, or, where a verse has neither, the division §3.7 falls back to, as in Ecclesiastes 3:3, 4 and 6–8; a comma at a lesser break. English sense governs where it differs. A question closes on its question mark (Ecclesiastes 3:9); a clause that opens onto the next takes a colon (3:13); a lesser break that closes a full clause may take a semicolon (3:14), and a major one inside a running sentence a comma (3:12); a line that runs on into the next takes no mark at all (3:10, 3:11). Inside a line, a comma may mark a strong pause the accents set there (Psalm 131:1 and 2). A superscription standing as its own line closes with a full stop (131:1). A dash stands on a face only to hold a clause whose verb the Hebrew leaves out and the face keeps out (§3.6), as in *For everything — a season* (Ecclesiastes 3:1); never round a gloss, and never as a breath mark. Ruled by the house, 13 October 2026. Stones built earlier keep their marks (§0).
 
 ---
 
@@ -174,6 +192,19 @@ The POD canonical template lives in the public repository at `Prayers-for-Life/P
 
 **The template governs. [v1.3]** Where the template and a register, a recent stone, or this document differ, the template wins — restore it in full rather than reconciling piecemeal. One change compensated elsewhere is how drift hides. The restoration of 4 October 2026 found exactly that: the closing stanza blank had been removed and the source label's space raised to cover the gap, the source type had grown from 13pt to 14pt, and the Hebrew lines had lost their right-to-left direction. On a POD face the template closes every stanza with a blank, the last included, so a POD carries `len(groups)` stanza blanks at the template's 8pt; §4.3 governs Ultra documents only. The one value the template cannot hold is page height: its fixed 11-inch page is kept, and extended only when a stone needs more, as the longest stones do.
 
+### 4.5 Pagination [v1.6]
+Pages break where the renderer puts them. The document says only what must not be parted, by keep-with-next, never by a page break or blank padding. On an Ultra:
+- every heading and label keeps with what it heads, so none stands at the foot of a page, a dated cutting or revision line included;
+- a face keeps together, every line but its last keeping with the next, and a source panel keeps with its transliteration;
+- each block of §2.7 keeps together, its reading note and label with it;
+- a round-trip keeps together, its draft line, its lines and its note;
+- a prayer to say keeps together, its heading, the line beneath it, and every line of the prayer but the last **[v1.7]**;
+- the credit, the date of the seal and the seal hold together.
+
+The Free Quarry found four Psalm 121 cutting headings without it, and the stone took it on 12 October 2026. Psalm 131 was paginated this way at the chisel.
+
+**A heading is found by its place, never by its weight. [v1.7]** The prayer to say is set in bold and its lines are not headings. The Psalm 131 build read every bold paragraph as a heading, and had to be read through the insertion when the prayer went in.
+
 ---
 
 ## 5. THE BUILD ASSERTS
@@ -189,12 +220,15 @@ Every assert below was earned from a failure. Run all of them on the final artif
 7. **Zero U+FFFD**; source-language survival into the PDF.
 8. **No Latin punctuation in any source-bearing paragraph.** Greek orthographic marks are not punctuation (Annex B).
 9. **No quotation marks anywhere.** The check cannot tell a possessive apostrophe from a closing single quote — both are U+2019 — so a stone's own prose writes around possessives rather than weakening the check. **[v1.4]** It caught one in the Ecclesiastes scaffold's foreword.
-10. **The LORD must never appear.** The match is case-sensitive, so a Greek face's *the Lord* passes.
+10. **The LORD must never appear**, outside the received English, which is a witness and keeps its translators' *LORD* (assert 15). **[v1.6]** The match is case-sensitive, so a Greek face's *the Lord* passes.
 11. **No YHWH on a Greek face.**
 12. **No bullet may follow a source line.**
 13. **Recovery bullets contiguous.**
 14. **Panel mirror** — assembled panel matches single-line panel on multiset *and* order; per verse on multi-verse stones.
 15. **English witness [v1.4]** — the received English on the page matches the fetched witness, verse by verse (§3.1); on a multi-verse stone, each verse's English sits in its own cycle and nowhere else **[v1.5]**.
+16. **Pagination [v1.6]** — keep-with-next on exactly the paragraphs §4.5 names, worked out from the stone's own structure, never typed. **[v1.7]** Headings are found by their place in the order, never by their weight.
+17. **Face marks [v1.6]** — each line of the face ends on the mark the stone declares for it, in every cycle and in §2.7 alike, and no dash stands on a face but one the stone declares (§3.8).
+18. **A Prayer to Say [v1.7]** — the heading and the line beneath it in their place (§2.8A); the prayer in bold, not italic, at the size of the English face; every line whole on its line in the render, and the block on one page; the face's conventions kept — the Name as the face writes it, *you* in lower case, no emphasis capitals, no quotation marks, no possessive apostrophes, no dash; and the seal still the last paragraph. On a stone that gains its prayer after the seal, every other paragraph of the sealed file is byte-identical.
 
 ### 5.1 The scan rule — the one that has failed twice
 **Every assert that scans for a fault must run over every source-bearing paragraph in the file.** Never over a named panel.
@@ -226,6 +260,15 @@ The cycle is: **chisel → notes → build → chisel.** One artifact push per c
 **The scaffold. [v1.3]** The Thirteenth Runner builds the scaffold (§2A). The Free Quarry, on Opus 5.5, checks its source panels and transliteration first; only then does Fable bloom. The scaffold's writer never closes its own loop.
 
 **Two hands on the transliteration. [v1.3]** Where the script allows it, the transliteration is derived programmatically from the source and regression-tested against a confirmed stone (Greek). Where it does not (Hebrew), one hand writes it — by hand, or by a transliterator applying Annex A's table — and the build diffs it against a second hand's before it enters a panel. **[v1.4]** Where the hands disagree, the table settles it; where the table is silent, the disagreement is declared and the table extended.
+
+**The two-Fable chain. [v1.7]** The two-hand rule in another form: two instances of the model, as well as two chambers. One brief goes to both Fables, written by the Thirteenth Runner from the stone itself, or for a bloom from its scaffold, carrying its findings and the house rules.
+1. Fable in the Free Quarry writes from the brief.
+2. Fable in the Thirteenth Runner writes from the brief, blind: the Quarry's text does not enter the chamber until hers is written.
+3. The Runner's Fable settles the two, licensed to remaster and not only to refine: keep, merge or rebuild. She says which lines came from which hand and why, and both stay on record.
+4. The Runner's Opus chisels the settled text and places it on the stone.
+5. The Free Quarry's Opus checks the stone on the repository.
+
+Fable's steps stay as text in the chat, which is what makes the chain affordable. **Where the two hands agree on something the brief supplied, the agreement shows the brief was clear, not that the hands found it apart**; the chain earns its keep where the hands differ and the settlement chooses. It is standard for the prayer to say (§2.8A), and the house's option, stone by stone, for the bloom of a short stone, as Psalm 131 was bloomed. Ruled by the house, 14 October 2026.
 
 ---
 
@@ -273,7 +316,7 @@ The difference is invisible in the output and decisive in the shelf.
 - **Layers:** letters, vowel points, te'amim. The meteg is a fourth layer (assert 5). The maqqef and paseq are part of the text and survive into every panel.
 - **Ketiv and qere:** the source panel carries the ketiv as the witness prints it; the transliteration carries the qere as it is read aloud; the recovery bullets declare both.
 - **Cantillation belongs to received text only.** Round-trip compositions carry none.
-- **Lineation:** atnach first, then the disjunctives; where there is no atnach, the fallback in §3.7. **[v1.3]**
+- **Lineation:** atnach first, then the disjunctives; where there is no atnach, the fallback in §3.7. **[v1.3]** In the poetic books the oleh ve-yored stands above the atnach, and both divide (§3.7). **[v1.6]**
 - **Two accent systems. [v1.3]** The Decalogue carries two cantillation systems, and the witness encodes the second as an alternative reading. The panel carries the main system; the other is declared in the recovery bullets, as at Exodus 20:8.
 - **Paragraph markers. [v1.4]** The petuchah (פ) and setumah (ס) are the Masoretes' paragraph divisions, not words. They are declared in the recovery bullets of the verse they close and never carried in a panel, as at Isaiah 41:13. Inside a passage they may set the strophes (§2A).
 - **Transliteration. [v1.4]** The table below governs from Ultra 21 forward. Stones built earlier keep the forms they were built with — the shelf mixes *b'* and *be-*, *ts* and *tz*, marked and unmarked ayin — and are not retrofitted by default (§0).
@@ -299,10 +342,10 @@ The difference is invisible in the output and decisive in the shelf.
   - **Shva.** A silent shva is not written. A vocal shva is written *e*: at the head of a word, under a doubled consonant, after a long vowel, as the second of two shvas, and after a meteg (*she-yireʾu*, Ecclesiastes 3:14).
   - **Dagesh forte** doubles its consonant (*chayyim*, *mibbeli*) — except straight after a hyphen (*ha-shabbat*).
   - **Furtive patah** is written before its letter (*ruach*, *natuaʿ*). The third-person suffix on a plural noun is *-av* (*ʿalav*).
-  - **Hyphens** follow the article (*ha-*), a preposition carrying the article (*la-kol*), the conjunction vav (*ve-*, *u-*, *va-*), a preposition pointed with shva (*be-*, *le-*), the relative *she-*, and every maqqef (*et-ha-kol*). None follows *min* (*mechabbeq*, *millefanav*), and none the vav of wayyiqtol (*vayyomar*).
+  - **Hyphens** follow the article (*ha-*), a preposition carrying the article (*la-kol*), the conjunction vav (*ve-*, *u-*, *va-*), a preposition pointed with shva (*be-*, *le-*), the relative *she-*, and every maqqef (*et-ha-kol*). **A one-letter preposition before the Name takes the hyphen whatever its vowel [v1.6]** (*ba-YHWH*, Jeremiah 17:7): its vowel belongs to the word read aloud in the Name's place, and the shelf already writes *la-YHWH*. None follows *min* (*mechabbeq*, *millefanav*), and none the vav of wayyiqtol (*vayyomar*).
   - **A one-letter preposition keeps its stop form** where the pointing softens it after a vowel (*be-ʿitto*, Ecclesiastes 3:11, where the bet is rafe).
   - **Capitals:** *Elohim* and proper names; the Name stays *YHWH*.
-  - **Punctuation:** in an Ultra it follows the accents — a semicolon at the atnach, a comma at each lesser break, a full stop at the silluq. A POD's transliteration carries its face's punctuation.
+  - **Punctuation:** in an Ultra it follows the accents — a semicolon at the atnach and at the oleh ve-yored **[v1.6]**, a comma at each lesser break, a full stop at the silluq. A POD's transliteration carries its face's punctuation.
 
 ## ANNEX B — GREEK
 
@@ -316,6 +359,23 @@ The difference is invisible in the output and decisive in the shelf.
 ---
 
 ## CHANGELOG
+
+**v1.7 · 14 October 2026 — ruled by the house the same evening.** From the first prayer to say on an Ultra, written for Psalm 131, *My Soul Upon Me*, by the two-Fable chain and added after the seal; and from the Mark 14:36 keepsake tablet, guided by Minh, which carried its prayer to say as the Romans 8:35–39 commission tablet does. The house ruled the chain into the specification as the two-hand rule in another form. Drafted by the Thirteenth Runner at the house's request.
+- §2 and §2.8A — A Prayer to Say, required on every stone built from this version: its place, heading, line beneath, type and text rules. A stone built earlier gains one only when it is revisited, as a change after the seal. Psalm 131 is the first.
+- §2.9 — the credit names the prayer's hands; on a sealed stone, the dated entry names them.
+- §4.5 and assert 16 — the prayer held together, and headings found by their place, never by their weight, since the prayer is bold and is not a heading.
+- §5, assert 18 — the prayer to say checked; on a sealed stone, every other paragraph byte-identical.
+- §6 — the two-Fable chain: one brief, two blind hands, a settlement licensed to remaster, the chisel and the check. Standard for the prayer to say, and the house's option for the bloom of a short stone. With it, the Free Quarry's caution from its check of Psalm 131: agreement on what the brief supplied is not independent.
+
+**v1.6 · 14 October 2026 — set aside by the house, 12 October 2026, for after the seal of Psalm 131.** From the Psalm 131 Ultra, *My Soul Upon Me*, scaffolded 11 October and sealed 12 October, the first stone in the poetic books built under this specification; and from the Psalm 121 stone's tenth cutting and keep-with-next pass of the same days. Drafted by the Thirteenth Runner at the house's request.
+- §3.7 and Annex A — the poetic books' accent table printed, in the order the *Hebrew Grammar* of Gesenius lists it. The oleh ve-yored outranks the atnach, as the Free Quarry noted at its check of the Psalm 131 scaffold, and both divide a verse unconditionally.
+- Annex A — the oleh ve-yored takes the semicolon in the transliteration, as the atnach does.
+- §4.5 and assert 16 — pagination by keep-with-next on the paragraphs that must not be parted, from the Free Quarry's note on the Psalm 121 cutting headings and the Psalm 131 chisel.
+- §1 — an Ultra ships as .docx, never as a PDF, as the house ruled on 7 October 2026.
+- Annex A — the table extended where it was silent, as §6 requires: a one-letter preposition before the Name takes the hyphen whatever its vowel. The Jeremiah 17:7 tablet found the gap, where the transliterator wrote *baYHWH*.
+- **Two clarifications from the stones that used them, for the house to strike if it disagrees:** the line threshold counts graphic units (§3.7), as Ultra 21 and Psalm 131 both counted; and assert 10 passes over the received English, which keeps its translators' *LORD*, as the Psalm 131 notes declared.
+- §3.8 and assert 17 — face punctuation, ruled by the house on 13 October 2026 in the style of Ecclesiastes 3 and Psalm 131: line ends by the breaks the accents set, English sense where it differs, and a dash only to hold a missing verb (§3.6).
+- §2.9 — the seal goes in last, and a change after it is made on the file from the repository and recorded in a dated entry just before the Closing, so the seal stays the last thing in the stone, as on Psalm 131. Ruled by the house, 14 October 2026.
 
 **v1.5 · 6 October 2026 — ruled by the house on its first read of Ultra 21.** Joe compared the chiselled stone with the shelf and found two layout differences the specification itself had caused.
 - §2A — the received English moves into each verse cycle, before and after, and is never printed whole on a multi-verse stone.
