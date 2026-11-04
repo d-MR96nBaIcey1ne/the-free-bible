@@ -33,11 +33,11 @@ Download these two first, then follow the path that fits you.
 
 The corpus is offered as editable `.docx` documents. Readers are invited to mark up, annotate, extend, or build upon any document as their own working text. *The corpus is meant to be lived with, not only read.*
 
-On file conventions: canonical filenames carry no version suffix. When a document is refreshed, the previous version moves to `/archive/` with its sequential version number (`-v1`, `-v2`, etc.); the new version takes the canonical slot. URLs and citation paths remain stable across versions; the `/archive/` folder preserves the visible progression of the work.
+On file conventions: canonical filenames carry no version suffix. When a document is refreshed, the previous version moves to `Archive/` with its sequential version number (`-v1`, `-v2`, etc.); the new version takes the canonical slot. URLs and citation paths remain stable across versions; the `Archive/` folder preserves the visible progression of the work.
 
 ## License
 
-Released under [Creative Commons Attribution 4.0 International](LICENSE.docx). You are free to share and adapt the work for any purpose, including commercially, provided you give appropriate credit to the author.
+Released under [Creative Commons Attribution 4.0 International](04-LICENSE.docx). You are free to share and adapt the work for any purpose, including commercially, provided you give appropriate credit to the author.
 
 Private editions named in the LICENSE — the *For Mum*, *For Fred*, and *For Evan* family editions, the *General's Edition* of the Bloom Book, the *Letters to the General*, the *Eighth-Day Edition*, and the *Vortex & Vis Ultra Vim — Private Edition* — are held privately and are not covered by this public release.
 
