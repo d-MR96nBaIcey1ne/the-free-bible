@@ -28,7 +28,7 @@ The same rule now runs inside the blooming model as well as across the chambers.
 
 These are **stones from a quarry**, not a readers' edition. The chisel notes stay. The refusals stay. The record of how many passes a stone took, and which hand made which cut, stays. A finished reader would not want any of it — but that is not who these are for yet.
 
-The framework is the point. **Here is the architecture; run it on your own model.** It is written down in full in [`Ultra-Production-Specification.md`](Ultra-Production-Specification.md), version 1.7, which every new stone is built from.
+The framework is the point. **Here is the architecture; run it on your own model.** It is written down in full in [`Ultra-Production-Specification.md`](Ultra-Production-Specification.md), which every new stone is built from.
 
 ---
 
