@@ -29,9 +29,9 @@ Both forms operate from the same source-language work. The compression of the ta
 
 ## The canonical format
 
-The format of the Prayer of the Day Tablet is governed by `Ultra-Prayer-of-the-Day-Tablet-Template-v2.docx` — the canonical specification document held in this folder. The template fixes the page setup, palette, typography, and chamber seal placement so that every Prayer of the Day Tablet carries the same visual identity while the content varies with the verse.
+The format of the Prayer of the Day Tablet is governed by `Ultra-Prayer-of-the-Day-Tablet-Template.docx` — the canonical specification document held in this folder. The template fixes the page setup, palette, typography, and chamber seal placement so that every Prayer of the Day Tablet carries the same visual identity while the content varies with the verse.
 
-The first page of the template is the exemplar tablet (Matthew 6:33 — *Seek First the Kingdom*). The pages that follow document every parameter of the format precisely, plus the chamber-tradition catches that emerged through the v2 refinement process. Future practitioners can produce their own Prayer of the Day Tablets by working from the template, returning to it whenever derivatives drift.
+The first page of the template is the exemplar tablet (Matthew 6:33 — *Seek First the Kingdom*). The pages that follow document every parameter of the format precisely, plus the chamber-tradition catches filed as the format has been refined. Future practitioners can produce their own Prayer of the Day Tablets by working from the template, returning to it whenever derivatives drift.
 
 ---
 
@@ -46,18 +46,18 @@ The seal asset is reusable. Any practitioner producing a Prayer of the Day Table
 ## Files in this folder
 
 - `README.md` — this document
-- `Ultra-Prayer-of-the-Day-Tablet-Template-v2.docx` — canonical specification + exemplar (Matthew 6:33)
-- `Ultra-Prayer-of-the-Day-Tablet-Template-v2.pdf` — PDF reference copy of the template
+- `Ultra-Prayer-of-the-Day-Tablet-Template.docx` — canonical specification + exemplar (Matthew 6:33)
+- `Ultra-Prayer-of-the-Day-Tablet-Template.pdf` — PDF reference copy of the template
 - `SealM-master.png` — canonical chamber seal asset (transparent PNG)
 - Individual Prayer of the Day Tablets, accumulating from 22 June 2026 forward
 
-Each individual tablet is provided as both `.docx` (editable source) and `.jpg` (screenshot-ready visual).
+Each individual tablet is provided as `.docx` (editable source), `.pdf` (the page as finalised) and `.jpg` (screenshot-ready visual). Earlier versions of the template are kept in the repository's `Archive/` folder under their version numbers.
 
 ---
 
 ## On usage
 
-The `.jpg` form is designed for direct sharing — WhatsApp, Signal, email, anywhere a verse can travel by image. The `.docx` form allows the practitioner to edit, adapt, or extend without re-typesetting from scratch.
+The `.jpg` form is designed for direct sharing — WhatsApp, Signal, email, anywhere a verse can travel by image. The `.docx` form allows the practitioner to edit, adapt, or extend without re-typesetting from scratch. The `.pdf` holds the tablet as it was finalised, for printing or reading as set.
 
 A Prayer of the Day Tablet is meant to be received, prayed, carried, and passed on. The format is built for screenshot capture and mobile-screen visibility; the discipline is meant for the body's daily devotional rhythm. Tablets in this folder are released into the commons under the Free Bible's stance — propagate, proliferate, adapt with care.
 
@@ -73,9 +73,9 @@ This separation is intentional and inherited from the broader chamber-tradition.
 
 ## On stanza count and adaptation
 
-The structure of the tablet is fixed; the content adapts to the verse. Stanza counts in the bloomed rendering are verse-driven, not template-driven — compact verses may bloom to two stanzas; tripartite verses to three; extended movements to four. The template documents this and gives examples from the canonical week of June 2026 from which the v2 form emerged.
+The structure of the tablet is fixed; the content adapts to the verse. Stanza counts in the bloomed rendering are verse-driven, not template-driven — compact verses may bloom to two stanzas; tripartite verses to three; extended movements to four. The template documents this.
 
-The section label adapts by testament: *The Greek Source* for New Testament verses, *The Hebrew Source* for Old Testament verses. The subtitle carries a brief theme phrase — two to four words — capturing the verse's essence and orienting the practitioner toward what the bloom recovers.
+The section label names the script present: *The Greek Source* over Greek, *The Hebrew Source* over Hebrew. The title line carries a short title naming what the bloom recovers — never a single word, and no longer than the header line holds.
 
 ---
 
