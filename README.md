@@ -2,7 +2,7 @@
 
 A working collaboration of bloomed prayers, scripture-readings, structural diagnostics, and contemplative companions, recovering the voltage of the original Hebrew, Greek, Aramaic, and Latin where centuries of smoothing have flattened it.
 
-**Twenty-nine documents.** Released under Creative Commons Attribution.
+**Thirty-five documents.** Released under Creative Commons Attribution.
 
 ---
 
@@ -23,8 +23,10 @@ Download these two first, then follow the path that fits you.
 - **Working guides** (13-15) - *The Biblical Blooming Guide* (and its Refreshed update), *Digital Content Balance*
 - **Companion texts** (16-18) - *The Cloud of Witnesses*, *The Lana Compendium*, *The Wool of the King*
 - **The Bloom Book and extensions** (19, 20) - the nineteen full scripture blooms and the Psalm 13 mainline extension
-- **Integrated works** (21, 23-25, 27) - *The Free Bible — Ultra Bloomed Edition*, two prayers of thanksgiving (one composed, one bloomed from David's prayer in 1 Chronicles 29), *Captured Moments — Parchment Edition*, and *The Vortex & Vis Ultra Vim — Public Edition*
+- **Integrated works** (21, 23-25a, 27) - *The Free Bible — Ultra Bloomed Edition*, two prayers of thanksgiving (one composed, one bloomed from David's prayer in 1 Chronicles 29), *Captured Moments — Parchment Edition* with its companion for Days Five and Six, and *The Vortex & Vis Ultra Vim — Public Edition*
 - **Structural diagnostics** (29) - *The Hollowing — A Diagnostic Across Domains*, a cross-domain framework naming the operation by which form is maintained while substance is removed across many domains (restaurants, religious tech, news media, entertainment, sports, decentralisation projects, schools, family events, family subsidies, medical care, voice-tech, family formation, and policy itself)
+- **The Cartographer Bloom Sweep** (30-30b) - verses cited in the chamber's working conversation, returned to depth through Hebrew and Greek source recovery, in three phases from June and July 2026: *Retrospective Recovery*, *Forward Extension*, and *The Living Extension*
+- **Colophon** (31) - *A Note on the Format*: why the corpus comes in two forms, the editable `.docx` and the fixed PDF, Portable, Durable, Free; offered in both
 - **Prayers for Life** (subdirectory `/Prayers-for-Life/`) - derived prayer tablets for daily practice; passage-length *Prayers to Carry* and single-verse *Prayers of the Day*. The numbered works are the project's foundations; the tablets are its daily breath.
 
 *(Private editions of select documents are held in personal record and are not part of this public release; mentioned in the Corpus Map for completeness.)*
